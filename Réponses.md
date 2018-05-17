@@ -35,4 +35,14 @@
 ### Q9 
 *https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595467%2D595479&hgsid=669220495_r0zLAl0kA0LasUf7t8DdWyeGGarV*
 ### Q10 
-*Le gène se trouve sur le brin sens (les nucléotides impliqués dans la muation sont identiques entre le NM et le NC*
+*Le gène se trouve sur le brin sens (les nucléotides impliqués dans la muation sont identiques entre le NM et le NC, ou flèches vers la droite dans USCS)*
+### Q11 
+*Il y a 6 exons sur le gène*
+### Q12 
+*Le variant se trouve que l'exon 3*
+### Q13 
+Le variant se trouve dans une région très conservée (elle est présente chez de nombreuses espèces) 
+### Q14 
+Le variant se trouve dans le domaine homéobox (NCBI protéines, voir la place dans les domaines) 
+### Q17 
+*Les différentes lignes correspondent au différents transcrits de la protéine contenant cette même mutation trouvées dans les BDD RefSeq et Ensembl*
